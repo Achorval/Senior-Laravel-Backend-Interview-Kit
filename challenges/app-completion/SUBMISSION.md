@@ -4,7 +4,7 @@ Fill this in and include it with your solution.
 
 ## Time & tools
 
-- Start time:
+- Start time: 2026-08-21 07:57 WAT
 - End time:
 - Tools/resources you used (docs, Stack Overflow, an AI assistant, etc., name them
   plainly; this is informational, not a trick question):
